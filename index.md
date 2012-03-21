@@ -7,13 +7,14 @@ tagline: developing, design
 
 ### Technology I Use
 		
-	::Programming Langauages			
-	 ::Main Weapons						 
-	  :Ruby								  
-	  :Python							  
-	  :PHP								  
-	  :JavaScript						  
-	  :C/C++			
+	::Programming Langauages
+	 ::Main Weapons
+	  :Ruby
+	  :Python
+	  :PHP
+	  :JavaScript/Coffeescript
+	  :C/C++
+	  :C#
 
 	::Design Tools
 	 ::Main Tools
@@ -22,7 +23,7 @@ tagline: developing, design
 	  :Adobe Fireworks
 	  :Adobe Photoshop
 	  :Adobe Illustrator
-	  
+
 #### Under Construction
 	
 
