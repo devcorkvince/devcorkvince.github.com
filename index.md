@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Developing in Simplicity
-tagline: developing, design
+tagline: develop, design, have fun
 ---
 {% include JB/setup %}
 
@@ -30,7 +30,7 @@ tagline: developing, design
 	  :Adobe Photoshop
 	  :Adobe Illustrator
 
-#### Under Construction
+#### Indie Games
 	
 
 
