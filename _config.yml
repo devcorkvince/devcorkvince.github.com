@@ -89,7 +89,7 @@ JB :
     facebook :
       appid : 123
       num_posts: 5
-      width: 960
+      width: 940
       colorscheme: light
    
   # Settings for analytics helper
