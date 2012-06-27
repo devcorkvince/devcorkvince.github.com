@@ -15,7 +15,7 @@ tags: [os, linux, distru]
 
 My History
 
-2005 - My cousin NEO give me a Hoary Hedgehog 5.04 CD - did not test it cause I was a gamer using the other brand.
+2005 - My cousin NEO gave me a Hoary Hedgehog 5.04 CD - did not test it cause I was a gamer using the other brand.
 
 2006 - Using The Other Brand NT and XP
 
@@ -31,6 +31,6 @@ My History
 
 2012 - Currently Using Ubuntu 11.10 Cause its March and 12.04 is Due @ end of April
 
-	 - Shift to Linux Mint 13 Maya Cinnamon waiting for ElementaryOS Luna
+	 June - Shift to Linux Mint 13 Maya Cinnamon waiting for ElementaryOS Luna
 
 ####To be continue ...
