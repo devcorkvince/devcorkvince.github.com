@@ -19,7 +19,7 @@ My History
 
 2006 - Using The Other Brand NT and XP
 
-2007 - Fedora and Suse (Novell and Dataworld Invited are school to participate on compiling and running apache, squid and dns server on a new 64bit machine then>>> We Lost :( ) -> one of the speaker ask who among as knows ubuntu and using it then pop I have a CD? ----
+2007 - Fedora and Suse (Novell and Dataworld Invited our school to participate on compiling and running apache, squid and dns server on a new 64bit machine then>> We Lost  << :( ) -> one of the speaker ask who among as knows ubuntu and using it then pop I have a CD? ----
 
 2008 - Using Ubuntu @work on CICT Commission on Information Communication Technology Project Using Edubuntu and teaching Instructors and Student To Use it.
 
@@ -30,5 +30,7 @@ My History
 2011 - Still Using Ubuntu and Alternative Distrus base on it like Elementary OS cause of VALA PL
 
 2012 - Currently Using Ubuntu 11.10 Cause its March and 12.04 is Due @ end of April
+
+	 - Shift to Linux Mint 13 Maya Cinnamon waiting for ElementaryOS Luna
 
 ####To be continue ...
