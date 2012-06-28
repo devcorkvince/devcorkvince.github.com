@@ -14,9 +14,11 @@ tagline: develop, design, have fun
     </p>
   {% endfor %}
 </div>
+-------------------
 
-### Technology I Use
-		
+##Technology I Use
+
+
 	::Programming Langauages
 	 ::Main Weapons
 	  :Ruby
@@ -34,8 +36,10 @@ tagline: develop, design, have fun
 	  :Adobe Photoshop
 	  :Adobe Illustrator
 
-#### Indie Games
-	
+##Indie Games
+
+	::
+-------------------	
 
 
 
