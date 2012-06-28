@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title>devcorkVince</title>
+ <link href="http://devcorkvince.github.com/atom.xml" rel="self"/>
+ <link href="http://devcorkvince.github.com"/>
+ <updated>2012-06-28T08:16:44+08:00</updated>
+ <id>http://devcorkvince.github.com</id>
+ <author>
+   <name>Leivince John D. Marte</name>
+   <email>devcorkvince@gmail.com</email>
+ </author>
+
+ 
+ <entry>
+   <title>Operating System I Use</title>
+   <link href="http://devcorkvince.github.com/Operating System/2012/03/22/operating-system-i-use"/>
+   <updated>2012-03-22T00:00:00+08:00</updated>
+   <id>hhttp://devcorkvince.github.com/Operating System/2012/03/22/operating-system-i-use</id>
+   <content type="html">&lt;h2 id='ubuntu'&gt;Ubuntu&lt;/h2&gt;
+
+&lt;h3 id='ubuntu__unity__gnome_shell'&gt;(Ubuntu - Unity) + Gnome Shell&lt;/h3&gt;
+
+&lt;h4 id='main_reason_librefree'&gt;Main Reason: Libre/Free&lt;/h4&gt;
+
+&lt;h4 id='sub_reason_fast_and_it_just_works_cause_im_using_it'&gt;Sub Reason: Fast and It Just Works (Cause I&amp;#8217;m using It)&lt;/h4&gt;
+
+&lt;p&gt;My History&lt;/p&gt;
+
+&lt;p&gt;2005 - My cousin NEO gave me a Hoary Hedgehog 5.04 CD - did not test it cause I was a gamer using the other brand.&lt;/p&gt;
+
+&lt;p&gt;2006 - Using The Other Brand NT and XP&lt;/p&gt;
+
+&lt;p&gt;2007 - Fedora and Suse (Novell and Dataworld Invited our school to participate on compiling and running apache, squid and dns server on a new 64bit machine then&amp;#187; We Lost &amp;#171;&amp;#160;:( ) -&amp;gt; one of the speaker ask who among as knows ubuntu and using it then pop I have a CD? &amp;#8212;-&lt;/p&gt;
+
+&lt;p&gt;2008 - Using Ubuntu @work on CICT Commission on Information Communication Technology Project Using Edubuntu and teaching Instructors and Student To Use it.&lt;/p&gt;
+
+&lt;p&gt;2009 - Developing PHP Project Completely Uninstalled The Other Brand First Year Using Ubuntu&lt;/p&gt;
+
+&lt;p&gt;2010 - Still Using Ubuntu&lt;/p&gt;
+
+&lt;p&gt;2011 - Still Using Ubuntu and Alternative Distrus base on it like Elementary OS cause of VALA PL&lt;/p&gt;
+
+&lt;p&gt;2012 - Currently Using Ubuntu 11.10 Cause its March and 12.04 is Due @ end of April&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt; June - Shift to Linux Mint 13 Maya Cinnamon waiting for ElementaryOS Luna&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h4 id='to_be_continue_'&gt;To be continue &amp;#8230;&lt;/h4&gt;</content>
+ </entry>
+ 
+ 
+</feed>
