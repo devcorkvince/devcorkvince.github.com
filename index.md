@@ -12,9 +12,10 @@ tagline: develop, design, have fun
     	<span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a>
     	<p>{{ post.content }}</p>
     </p>
+    -------------------
   {% endfor %}
 </div>
--------------------
+
 
 ##Technology I Use
 
